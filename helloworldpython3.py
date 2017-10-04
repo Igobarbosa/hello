@@ -1,2 +1,5 @@
 hello.py 4ce36bab9eb65a4f1ca7434e9e161e2a
 README 60eb4789fd5a340fe3120ba1667a00b0
+
+print ("hello world")
+() adapts to new python update 
